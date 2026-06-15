@@ -3,7 +3,7 @@ KPRIET Website UI/UX Redesign - Student Portfolio Project 2025
 
 
 Designer       :Vignesh S  
-Course         :B.Tech CSE (AIML)  
+Course         :B.E CSE (AIML)  
 Tools          :Figma  Miro Photoshop  Google Fonts  
 Target Website :kpriet.ac.in  
 Year           :2025  
