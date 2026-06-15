@@ -31,7 +31,6 @@ The KPRIET website has content-heavy pages, 11+ navigation items with no hierarc
 | File | Description |
 |------|-------------|
 | `KPRIET_UX_Case_Study.pptx` | 12-slide presentation |
-| `KPRIET_UX_Case_Study.pdf` | PDF version for submission |
 | `KPRIET_Website_Redesign_Screenshot.html` | Before vs After visual mockup |
 
 ## Case Study Structure (12 Slides)
