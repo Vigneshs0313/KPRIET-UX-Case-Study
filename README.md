@@ -1,3 +1,5 @@
+## 🌐 Live Preview
+[View Before vs After Mockup](https://Vigneshs0313.github.io/KPRIET-UX-Case-Study/KPRIET_Website_Redesign_Screenshot.html)
 # KPRIET Website UI/UX Redesign Case Study
 KPRIET Website UI/UX Redesign - Student Portfolio Project 2025
 
